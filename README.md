@@ -97,7 +97,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ## 🌱 Currently Learning
 
-I am currently expanding my knowledge in Java more and more. I am particularly interested in ` Artificial intelligence `]
+I am currently expanding my knowledge in Java more and more. I am particularly interested in ` Artificial intelligence `
 
 <!------
 
@@ -108,11 +108,12 @@ I am currently expanding my knowledge in Java more and more. I am particularly i
 
 ---
 
+
 ## ⚡ Fun Fact
 
 - I really love playing football and swimming
 
----
+  ---
 
 <div align="center" style="background-color: #E8D8FB; padding: 20px; border-radius: 10px;">
   <h2 style="color: #8E8DE5;">GitHub Stats</h2>
@@ -121,3 +122,4 @@ I am currently expanding my knowledge in Java more and more. I am particularly i
   <h2 style="color: #8E8DE5;">Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex11111115&layout=compact&theme=radical" alt="Top Languages">
   <br>
+  
