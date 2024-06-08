@@ -18,14 +18,14 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ### Programming Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-90%25-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-90%25-8e8de5?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <div style="background-color: #222327; border-radius: 5px; padding: 3px; margin: 5px; width: 300px;">
     <div style="background-color: #8E8DE5; height: 20px; width: 90%; border-radius: 5px;"></div>
   </div>
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/XML-95%25-blue?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/XML-95%25-8e8de5?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <div style="background-color: #222327; border-radius: 5px; padding: 3px; margin: 5px; width: 300px;">
     <div style="background-color: #E8D8FB; height: 20px; width: 95%; border-radius: 5px;"></div>
   </div>
@@ -33,15 +33,10 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ### Tools & Technologies
 <div>
-  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse">
   <img src="https://img.shields.io/badge/Version_Control-Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Version_Control-GitHub-orange?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Build_Tool-Maven-blue?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/Build_Tool-Gradle-blue?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Technology-REST%20APIs-green?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Database-SQL-green?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Technology-JSON-green?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </div>
 
 ### Design and Development
