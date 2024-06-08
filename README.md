@@ -44,7 +44,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 - **Software Development:** Adept in the complete software development lifecycle, from concept through deployment.
 
 ---
-
+<!--
 ## 💼 Experience
 
 ### [Your Most Recent Job Title]
@@ -60,9 +60,8 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 - Describe your main responsibilities and achievements.
 - Highlight any important projects or contributions.
-
 ---
-
+-->
 ## 📚 Education
 
 **[Your Degree]**  
