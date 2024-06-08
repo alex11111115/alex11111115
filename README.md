@@ -18,7 +18,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ### Programming Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-90%25-8e8de5?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-80%25-8e8de5?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <div style="background-color: #222327; border-radius: 5px; padding: 3px; margin: 5px; width: 300px;">
     <div style="background-color: #8E8DE5; height: 20px; width: 90%; border-radius: 5px;"></div>
   </div>
@@ -64,12 +64,12 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 -->
 ## 📚 Education
 
-**[Your Degree]**  
-**[University Name]** - [City, Country]  
-**[Year] – [Year]**
+**[High school]**  
+**[I still haven't entered university]** - [Egypt 🇪🇬, Alexandria]  
+**[--] – [--]**
 
-- Relevant coursework: List relevant courses or projects.
-- Achievements: Highlight any significant academic accomplishments.
+<!--- Relevant coursework: List relevant courses or projects.-->
+- Achievements: I entered a competition in high school specifically in secondary school. It was called ` Inventor Student ` and what was required was to do anything to talk about the environment and the climate conference. Here my friend and I started filming modest videos and compressing their size, and after that I started making the application. Not only that, but I wrote articles with some funny and attention-grabbing pictures. After that, my friend and I presented this application to the management organizing the competition, and we won this competition and received a certificate of appreciation after that. I know that this may be a very simple thing, but it is something special for me and in my life
 
 ---
 
@@ -89,19 +89,16 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 ## 📫 Contact
 
 <div>
-  <a href="https://www.linkedin.com/in/yourprofile" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/yourprofile" style="text-decoration: none;">
+  <a href="https://www.facebook.com/obeida.hussein.a/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/yourprofile" style="text-decoration: none;">
+  <a href="https://www.instagram.com/obeida.hussein.a/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://t.me/yourprofile" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+  <a href="mailto:bodybody15151@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -110,20 +107,20 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ## 🌱 Currently Learning
 
-I am currently expanding my knowledge in [New Technology or Skill]. I am particularly interested in [Specific Area of Interest].
+I am currently expanding my knowledge in [Java] more and more. I am particularly interested in [` Artificial intelligence `].
 
----
+<!------
 
 ## 📜 Certifications
 
 - **[Certification Name]** – [Issuing Organization]
-- **[Certification Name]** – [Issuing Organization]
+- **[Certification Name]** – [Issuing Organization]-->
 
 ---
 
 ## ⚡ Fun Fact
 
-- Share a fun fact about yourself or a hobby you enjoy outside of programming.
+- I really love playing football and swimming
 
 ---
 
