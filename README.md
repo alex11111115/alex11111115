@@ -19,19 +19,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 ## 🛠️ Skills
 
 ### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/Java-80%25-8e8de5?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <div style="background-color: #222327; border-radius: 5px; padding: 3px; margin: 5px; width: 300px;">
-    <div style="background-color: #8E8DE5; height: 20px; width: 90%; border-radius: 5px;"></div>
-  </div>
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/XML-95%25-8e8de5?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-  <div style="background-color: #222327; border-radius: 5px; padding: 3px; margin: 5px; width: 300px;">
-    <div style="background-color: #E8D8FB; height: 20px; width: 95%; border-radius: 5px;"></div>
-  </div>
-</div>
+  <img src="https://img.shields.io/badge/Java-80%25-8e8de5?style=flat&logo=java&logoColor=white" alt="Java">   <img src="https://img.shields.io/badge/XML-95%25-8e8de5?style=flat&logo=xml&logoColor=white" alt="XML">
 
 ### Tools & Technologies
 <div>
@@ -97,14 +85,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ## 🌱 Currently Learning
 
-I am currently expanding my knowledge in Java more and more. I am particularly interested in ` Artificial intelligence `
-
-<!------
-
-## 📜 Certifications
-
-- **[Certification Name]** – [Issuing Organization]-->
-
+I am currently expanding my knowledge in Java more and more. I am particularly interested in Artificial intelligence 
 
 ---
 
@@ -115,6 +96,10 @@ I am currently expanding my knowledge in Java more and more. I am particularly i
 
   ---
 
+  <h2 align="center" style="color: #8E8DE5;">Profile Views</h2>
+  <img align="center" src="https://komarev.com/ghpvc/?username=alex11111115&style=flat&color=8E8DE5" alt="Profile Views">
+</div>
+
 <div align="center" style="background-color: #E8D8FB; padding: 20px; border-radius: 10px;">
   <h2 style="color: #8E8DE5;">GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=alex11111115&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -122,4 +107,3 @@ I am currently expanding my knowledge in Java more and more. I am particularly i
   <h2 style="color: #8E8DE5;">Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex11111115&layout=compact&theme=radical" alt="Top Languages">
   <br>
-  
