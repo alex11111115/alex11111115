@@ -95,7 +95,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
   <a href="https://www.instagram.com/obeida.hussein.a/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://t.me/yourprofile" style="text-decoration: none;">
+  <a href="https://t.me/@obeida_hussein" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:bodybody15151@gmail.com" style="text-decoration: none;">
