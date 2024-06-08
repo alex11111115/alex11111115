@@ -12,6 +12,8 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 - **Name:** Obieda
 - **GitHub Username:** [alex11111115](https://github.com/alex11111115)
 
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+
 ---
 
 ## 🛠️ Skills
@@ -44,29 +46,10 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 - **Software Development:** Adept in the complete software development lifecycle, from concept through deployment.
 
 ---
-<!--
-## 💼 Experience
 
-### [Your Most Recent Job Title]
-**Company Name** - [City, Country]  
-**[Month, Year] – Present**
-
-- Describe your main responsibilities and achievements.
-- Include any significant projects or technologies used.
-
-### [Previous Job Title]
-**Company Name** - [City, Country]  
-**[Month, Year] – [Month, Year]**
-
-- Describe your main responsibilities and achievements.
-- Highlight any important projects or contributions.
----
--->
 ## 📚 Education
 
-**[High school]**  
-**[I still haven't entered university]** - [Egypt 🇪🇬, Alexandria]  
-**[--] – [--]**
+**[High school]**   - [Egypt 🇪🇬, Alexandria]  
 
 <!--- Relevant coursework: List relevant courses or projects.-->
 - Achievements: I entered a competition in high school specifically in secondary school. It was called ` Inventor Student ` and what was required was to do anything to talk about the environment and the climate conference. Here my friend and I started filming modest videos and compressing their size, and after that I started making the application. Not only that, but I wrote articles with some funny and attention-grabbing pictures. After that, my friend and I presented this application to the management organizing the competition, and we won this competition and received a certificate of appreciation after that. I know that this may be a very simple thing, but it is something special for me and in my life
@@ -77,11 +60,18 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ### Latest Project
 
+# WavePlayerView ![http://developer.android.com/index.html](https://github.com/alex11111115/WavePlayerView/assets/96258291/3fc4547a-a929-43c3-8cf0-ee16b066fb7e)
+
 <div style="border: 2px solid #8E8DE5; border-radius: 10px; padding: 20px; margin: 20px;">
-  <h3 style="color: #8E8DE5;">[Project Name]</h3>
-  <p><strong>Description:</strong> Briefly describe what the project is about and your role in it. Highlight the technologies used and any significant achievements.</p>
-  <p><strong>Version:</strong> 1.0.0</p>
-  <a href="https://github.com/alex11111115/WavePlayerView" style="color: #E8D8FB; text-decoration: none; border: 2px solid #E8D8FB; padding: 10px 15px; border-radius: 5px;">View Repository</a>
+  <h3 style="color: #8E8DE5;">
+<a href="https://github.com/alex11111115/WavePlayerView">
+  <img src="https://img.shields.io/badge/WavePlayerView-8E8DE5?style=flat&labelColor=E8D8FB&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTAwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwb2x5bGluZSBwb2ludHM9IjAsMjAgMTAsMTAgMjAsMjAgMzAsMTAgNDAsMjAgNTAsMTAgNjAsMjAgNzAsMTAgODAsMjAgOTAsMTAgMTAwLDIwIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojOEU4REU1O3N0cm9rZS13aWR0aDoyIiAvPjxwb2x5bGluZSBwb2ludHM9IjAsMjUgMTAsMTUgMjAsMjUgMzAsMTUgNDAsMjUgNTAsMTUgNjAsMjUgNzAsMTUgODAsMjUgOTAsMTUgMTAwLDI1IiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojOEU4REU1O3N0cm9rZS13aWR0aDoyIiAvPjwvc3ZnPg==" alt="WavePlayerView Logo" style="width: 180px; height: 28px; margin-right: 10px;">
+  <span style="font-size: 12px; color: #8E8DE5;"></span>
+</a>
+</h3>
+  <p><strong>Description:</strong>A Java library for analyzing sound directly by recording sound and plotting waves according to frequencies instantly and on the contrary, there is also a drawing of waves according to an audio file from a track or from a file within the application.</p>
+  <p><strong>Version:</strong> 1.10</p>
+  <a href="https://github.com/alex11111115/WavePlayerView" style="color: #E8D8FB; text-decoration: none; border: 2px solid #E8D8FB; padding: 10px 15px; border-radius: 5px;">View Repository</a>     <img src="https://img.shields.io/github/v/release/alex11111115/WavePlayerView?style=flat&color=8E8DE5" alt="Latest Release">
 </div>
 
 ---
@@ -107,14 +97,14 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ## 🌱 Currently Learning
 
-I am currently expanding my knowledge in [Java] more and more. I am particularly interested in [` Artificial intelligence `].
+I am currently expanding my knowledge in Java more and more. I am particularly interested in ` Artificial intelligence `]
 
 <!------
 
 ## 📜 Certifications
 
-- **[Certification Name]** – [Issuing Organization]
 - **[Certification Name]** – [Issuing Organization]-->
+
 
 ---
 
