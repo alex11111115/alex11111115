@@ -81,7 +81,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
   <h3 style="color: #8E8DE5;">[Project Name]</h3>
   <p><strong>Description:</strong> Briefly describe what the project is about and your role in it. Highlight the technologies used and any significant achievements.</p>
   <p><strong>Version:</strong> 1.0.0</p>
-  <a href="https://github.com/alex11111115/[repository-name]" style="color: #E8D8FB; text-decoration: none; border: 2px solid #E8D8FB; padding: 10px 15px; border-radius: 5px;">View Repository</a>
+  <a href="https://github.com/alex11111115/WavePlayerView" style="color: #E8D8FB; text-decoration: none; border: 2px solid #E8D8FB; padding: 10px 15px; border-radius: 5px;">View Repository</a>
 </div>
 
 ---
