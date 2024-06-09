@@ -112,7 +112,7 @@ I am currently expanding my knowledge in Java more and more. I am particularly i
 ---
 
 <details>
-<summary>Why Support palestine</summary>
+<summary>The story of a people and a civilization</summary>
 
 ~تاريخ فلسطين وحربها مع الكيان الصهيوني~
 
