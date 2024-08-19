@@ -46,7 +46,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 
 ## 📈 Projects
 
-### Latest Project
+### Featured project
 
 # WavePlayerView ![http://developer.android.com/index.html](https://github.com/alex11111115/WavePlayerView/assets/96258291/3fc4547a-a929-43c3-8cf0-ee16b066fb7e)
 
@@ -58,7 +58,7 @@ I am a passionate software developer with expertise in Java and XML design. I ha
 </a>
 </h3>
   <p><strong>Description:</strong>A Java library for analyzing sound directly by recording sound and plotting waves according to frequencies instantly and on the contrary, there is also a drawing of waves according to an audio file from a track or from a file within the application.</p>
-  <p><strong>Version:</strong> 1.10</p>
+  <p><strong>Version:</strong> 1.12</p>
   <a href="https://github.com/alex11111115/WavePlayerView" style="color: #E8D8FB; text-decoration: none; border: 2px solid #E8D8FB; padding: 10px 15px; border-radius: 5px;">View Repository</a>     <img src="https://img.shields.io/github/v/release/alex11111115/WavePlayerView?style=flat&color=8E8DE5" alt="Latest Release">
 </div>
 
